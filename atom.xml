@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Sub-Sector Pandoricus]]></title>
+  <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/atom.xml" rel="self"/>
+  <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/"/>
+  <updated>2013-09-25T23:21:51+01:00</updated>
+  <id>http://thewizzarduk.github.io/sub-sector-pandoricus/</id>
+  <author>
+    <name><![CDATA[TeamPandoricus]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
