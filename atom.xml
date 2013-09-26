@@ -4,13 +4,94 @@
   <title><![CDATA[Sub-Sector Pandoricus]]></title>
   <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/atom.xml" rel="self"/>
   <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/"/>
-  <updated>2013-09-25T23:21:51+01:00</updated>
+  <updated>2013-09-26T01:29:23+01:00</updated>
   <id>http://thewizzarduk.github.io/sub-sector-pandoricus/</id>
   <author>
     <name><![CDATA[TeamPandoricus]]></name>
-    
+    <email><![CDATA[teampandoricus@omits-dev.org.uk]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test post 9]]></title>
+    <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-9/"/>
+    <updated>2013-09-26T01:24:00+01:00</updated>
+    <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-9</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test post 8]]></title>
+    <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-8/"/>
+    <updated>2013-09-26T01:24:00+01:00</updated>
+    <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-8</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test post 7]]></title>
+    <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-7/"/>
+    <updated>2013-09-26T01:24:00+01:00</updated>
+    <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-7</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test post 6]]></title>
+    <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-6/"/>
+    <updated>2013-09-26T01:23:00+01:00</updated>
+    <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-6</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test post 5]]></title>
+    <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-5/"/>
+    <updated>2013-09-26T01:23:00+01:00</updated>
+    <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-5</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test post 4]]></title>
+    <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-4/"/>
+    <updated>2013-09-26T01:23:00+01:00</updated>
+    <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-4</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test post 3]]></title>
+    <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-3/"/>
+    <updated>2013-09-26T01:23:00+01:00</updated>
+    <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test post 2]]></title>
+    <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-2/"/>
+    <updated>2013-09-26T01:23:00+01:00</updated>
+    <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test post 1]]></title>
+    <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-1/"/>
+    <updated>2013-09-26T01:22:00+01:00</updated>
+    <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/26/test-post-1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
