@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Test post 7"
+date: 2013-09-26 01:24
+comments: true
+categories: 
+---
