@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sub-Sector Pandoricus]]></title>
-  <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Development | Sub-Sector Pandoricus]]></title>
+  <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/categories/development/atom.xml" rel="self"/>
   <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/"/>
   <updated>2013-09-28T23:22:22+01:00</updated>
   <id>http://thewizzarduk.github.io/sub-sector-pandoricus/</id>
@@ -78,66 +78,6 @@ officia deserunt mollit anim id est laborum.</p>
     <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/test-post-5/"/>
     <updated>2013-09-26T01:23:00+01:00</updated>
     <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/test-post-5</id>
-    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-officia deserunt mollit anim id est laborum.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test post 4]]></title>
-    <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/test-post-4/"/>
-    <updated>2013-09-26T01:23:00+01:00</updated>
-    <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/test-post-4</id>
-    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-officia deserunt mollit anim id est laborum.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test post 3]]></title>
-    <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/test-post-3/"/>
-    <updated>2013-09-26T01:23:00+01:00</updated>
-    <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/test-post-3</id>
-    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-officia deserunt mollit anim id est laborum.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test post 2]]></title>
-    <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/test-post-2/"/>
-    <updated>2013-09-26T01:23:00+01:00</updated>
-    <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/test-post-2</id>
-    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-officia deserunt mollit anim id est laborum.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test post 1]]></title>
-    <link href="http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/test-post-1/"/>
-    <updated>2013-09-26T01:22:00+01:00</updated>
-    <id>http://thewizzarduk.github.io/sub-sector-pandoricus/blog/2013/09/test-post-1</id>
     <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
