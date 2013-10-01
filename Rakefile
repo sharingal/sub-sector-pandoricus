@@ -109,8 +109,13 @@ task :new_post, :title do |t, args|
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
-    post.puts "comments: true"
+    post.puts "author: "
     post.puts "categories: "
+    post.puts "comments: false"
+    post.puts "description: "
+    post.puts "external-url: "
+    post.puts "keywords: "
+    post.puts "share: true"
     post.puts "---"
   end
 end
@@ -148,6 +153,18 @@ task :new_page, :filename do |t, args|
       page.puts "sharing: true"
       page.puts "footer: true"
       page.puts "---"
+	  post.puts "layout: page"
+      post.puts "title: \"#{title}\""
+      post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
+      post.puts "author: "
+      post.puts "categories: "
+      post.puts "comments: false"
+      post.puts "description: "
+      post.puts "external-url: "
+      post.puts "keywords: "
+      post.puts "share: true"
+	  page.puts "footer: true"
+      post.puts "---"
     end
   else
     puts "Syntax error: #{args.filename} contains unsupported characters"
