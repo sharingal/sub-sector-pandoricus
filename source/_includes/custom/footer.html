@@ -1,4 +1,7 @@
 <p>
   Copyright &copy; {{ site.time | date: "%Y" }} - {{ site.author }} -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a> and dressed by @omits-dev</span> -
+  {% if site.subscribe_rss %}
+  <a href="{{ site.subscribe_rss }}">RSS Feed</a>
+  {% endif %}
 </p>
