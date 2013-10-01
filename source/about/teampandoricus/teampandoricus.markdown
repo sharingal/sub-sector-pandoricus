@@ -6,4 +6,4 @@ sharing: false
 footer: true
 ---
 
-Info page designed to introduce folk to the pandoricus team and their "project" alias'.
+Info page designed to introduce folk to the Pandoricus team and their "project" alias'.
