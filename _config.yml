@@ -6,7 +6,7 @@ url: http://thewizzarduk.github.io/sub-sector-pandoricus
 title: Sub-Sector Pandoricus
 subtitle: A narrative campaign universe for Warhammer 40,000.
 author: TeamPandoricus
-simple_search: http://www.duckduckgo.com/
+# simple_search: http://www.duckduckgo.com/
 description: A Warhammer 40,000 narrative campaign multiverse, using Octopress for web presence.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
